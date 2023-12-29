@@ -1,1 +1,0 @@
-System.register(["./vue-vendor-legacy-oZsCtyUE.js","./api-libs-legacy-P8Jm07AI.js"],(function(e,t){"use strict";var n,r,u,s,a;return{setters:[function(e){n=e.d,r=e.af,u=e.h,s=e.f},function(e){a=e.j}],execute:function(){var t={class:""};e("default",n({__name:"autoLogin",setup:function(e){var n=r();return a(n.params.id),function(e,n){return s(),u("section",t)}}}))}}}));

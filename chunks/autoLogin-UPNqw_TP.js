@@ -1,1 +1,0 @@
-import{d as e,af as t,h as s,f as a}from"./vue-vendor-13TjpPhz.js";import{j as n}from"./api-libs-U9z2nlC4.js";const r={class:""},u=e({__name:"autoLogin",setup(c){const o=t();return n(o.params.id),(_,i)=>(a(),s("section",r))}});export{u as default};

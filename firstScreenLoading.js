@@ -10,7 +10,7 @@ void (function () {
   .first-screen-loading-wrapper {
     --ball-total: 36;
     --ball-size: 10px;
-    --container-size: 20vmin;
+    --container-size: 40vmin;
     --animation-duration: 3s;
     --animation-delay-scale: 5;
     --perspective-scale: 4;
